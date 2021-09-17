@@ -16,3 +16,4 @@ if prime:
     print("It is a prime no.")
 else:
     print("It is not a prime")
+    
