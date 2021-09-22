@@ -4,8 +4,10 @@
 #     print(i)
 
 # print(i)
-# for i in range(10):
-#     print(i)
+a = 0
+for i in range(10):
+    a+= i
+print(a)
 
-print("a", "b",)
-print("c")
+# print("a", "b",)
+# print("c")
