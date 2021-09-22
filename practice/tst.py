@@ -1,5 +1,5 @@
-import numpy as np
-arr = np.array([2,4,6,7,1,3])
+# import numpy as np
+# arr = np.array([2,4,6,7,1,3])
 
 # sum = 0
 # mean = 0
@@ -18,6 +18,5 @@ arr = np.array([2,4,6,7,1,3])
 
 # sd = sdsq**(1/2)
 # print(sd)
-
-print(arr.std())
+# print(arr.std())
 
