@@ -8,4 +8,5 @@ num = str(num+1)
 digits = []
 for i in range(len(num)):
     digits.append(num[i])
+
 print(digits)
