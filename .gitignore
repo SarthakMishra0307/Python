@@ -5,3 +5,5 @@ Pandas/dataset/
 Selenium/drivers/
 *.csv
 BeautifulSoup/highest-grossing-film.csv
+*.txt
+*.mp3
